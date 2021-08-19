@@ -1,1 +1,1 @@
-# akka-actor-shopping-system-example
+# Akka-Actor-Shopping
